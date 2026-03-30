@@ -1,0 +1,5 @@
+method,tokens_per_sec,load_time,speedup
+"No Speculation
+(Llama-3.1-8B alone)",398.73283639463176,25.172106504440308,1.0
+"Speculative Decoding
+(Qwen3-4B -> Llama-3.1-8B)",0.0,0.0,0.0
